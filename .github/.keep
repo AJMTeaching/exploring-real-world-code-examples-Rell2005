@@ -1,0 +1,45 @@
+Code that specifies when an alarm clock should start making audible sounds.
+. Using codes like Import day time, import time, and import winsound, allowing the proper imports of day time, module time for delays, and the modules for playing the alarm sounds.  https://pythonmania.org/python-program-for-alarm-clock/
+. using code to arange future plans and alarms, using tkinter and PIL necessary downloads from the store to exacute the provided python scriptal alarm_clock.py enhancement includes, multiple Alarm, snooze functionality, persistent alarms, More sound options, and responsive UI. https://github.com/ROSHAN-KHANDAGALE/Alarm-Clock
+. building a graphical user interface (GUI), using the Tkinter script for the GUI components, developing a messagebox for display information dialogs, and playsound for playing the alarm sound. 
+Explanation) creating an alarm clock requires both reginal and worldly time zones, while also functioning as a working clock, importing day time and sounds provides a foundating script, aranging future plans on the clock such as alarms for certain times in the day require specific programs that you have to download, (tkinter and PIL), using these scripts, you can design our own graphical usere interface(GUI) using the Tkinter script for the components in the GUI, developing messageboxes and sound board music. 
+Code for a rocket targeting system.
+.ATS_int.h
+.LVD.h
+.Pi_contoller.h 
+Explanation) All of the codes presented and more are apart of an ATS libary in which allows for predicting and controling on an apogee givin raw sensory data, being able to use with any launch vehicle device and any flight computer. https://github.com/Nicolas-Iskos/CMRC-ATS-project/blob/master/README.md
+File compression utility algorithm.
+.Huffman coding 
+.vector<Node*>
+.Priority_queue<Node*, vector<Node*>, compare>
+Explanation) Huffman coding assumes the computer to think the nodes you want to compress are (for example a group of trees or even a forest of trees) with that the algorithm combines two "trees" at a time srinking the numbers of nodes and compression their size with it, using the vector and priority coding strains to narrow down the spicific nodes and their priority within file size, telling the computer when and how you want the file compressed. https://github.com/AnshulRanjan2004/File-Compression-Utility/blob/main/README.md,  https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/
+Weather forecasting algorithm.
+.XGB classifier
+.K-Nearest neighbors classifier 
+.AdaBoost classifier
+Explanationn) Using algorithms to do forcasting for the weather requires, date sets like the temp_Max, temp_Min, wind and other things like all the weather conditions within the day, and the pridiction based off the data sets. https://www.kaggle.com/datasets/ananthr1/weather-prediction/data, https://github.com/kokobiyu/Weather-Forecasting-with-Classifier/blob/main/README.md, https://medium.com/@kokobiyu/weather-forecasting-with-python-machine-learning-beginner-50bf41ddf4e
+E-commerce checkout system process.
+.build with programs designed to orginized and funtionize the system process, such as Maven- Dependency Management, JDK-Java™ Platform, Standard Edition Development Kit, 
+.spring boost-Framework to ease the bootstrapping and development of new Spring Applications, Git-Free and Open-Source distributed version control system, Postman-API Development Environment (Testing Docmentation), 
+. Swagger- Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services. http://localhost:8080/swagger-ui.html#/
+Explanation)using swagger to constuct a branch of applied machanisms that is later on organized by other programs in a system tracking and counting, supplies, profit, and revenew, coming in and out by registered members choosen to be the medium for the exchange even if thats an online echange of goods.https://github.com/HendSoliman/e-commerce-checkout/blob/main/README.md
+Social media post scheduler.
+.Self-Hostable-Unrestricted-Free, Easy Setup, No Port Config Required, Highly Configurable Settings with Frontend UI (Synced to local ini file, dynamically generated)
+.Cross Platform Management Tools, Fully Customizable
+.Video Support, File Support, 
+Explanation) Using codes for the account, videos seperate from the post, the data base that links all the information being shared, and features that help incript, store the amount of data being fed and received. https://github.com/Visualistic-Studios/Media-Manager/blob/release/README.md
+Fitness app calorie counter.
+.pip install PyQtChart
+.pip install PyQtWebEngine
+.pip install caloriestracker
+Explanation) using python, downloading a system to chart out what needs to be or what is being feed into the system, downloading a engine to run the chart on and where people go to so they can see the results of the charts, and downloading the software that you will put your information in to not only find the personal calorie defficate that the person follows and also tracts their progress within the fitness app. https://github.com/turulomio/caloriestracker
+Online voting system mechanics.
+.Node.js
+.Truffle, Ganache(cli)
+.Metamask
+Explanation) Downloading nodejs as a base space for the coding, using truffle and ganache to manage packagers in the nodes,then download matemask allowing to clone repeatedly, packaging the nodes so that very clone is destinctive enought to not be repersented by the same person but also combined into a more compact formate. https://github.com/arlbibek/dVoting/blob/master/README.md
+Automated email response system.
+.puppeteer-email - Main library entrypoint, puppeteer-email-cli - CLI for executing one-off email automation tasks, puppeteer-email-session - Holds state for an authenticated puppeteer email session.
+.puppeteer-email-provider - Abstract base class for puppeteer email providers, puppeteer-email-provider-outlook - Puppeteer email provider for Outlook, puppeteer-email-provider-gmail - Puppeteer email provider for Gmail(TODO)
+.puppeteer-email-provider-yahoo - Puppeteer email provider for Yahoo Mail(TODO),parse-email - Parses mime-encoded email messages, sms-number-verifier - Allows you to spoof SMS number verification.
+Explanation)using the library and cli, for the code systen puppeteer which allows for the email to come thru a system that determines the emails purpose and response within a list of responses created by the user for those destinctly writting emails or just informinng the emailer that the recipient will get back to them at a later date.https://github.com/transitive-bullshit/puppeteer-email/blob/master/readme.md
